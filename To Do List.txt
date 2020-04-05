@@ -5,3 +5,5 @@ Ruang lingkup proyek di cek lagi
 Metodologi Pernagkat Lunak.
 
 jadwal : senin pagi / siang
+
+deadline : hari selasa
